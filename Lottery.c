@@ -7,7 +7,7 @@ void main()
   int i, won; 
   
   int YourLotteryNo;  
-  printf("Edited By User A(Champfatboy)"); 
+  printf("Edited By User A(tempurak again)");
   printf("Enter your Lottery Number (0 to end): "); 
   scanf("%d", &YourLotteryNo); 
   while (YourLotteryNo != 0) 

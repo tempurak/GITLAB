@@ -5,6 +5,7 @@ void main()
   int i;
   do
   {
+    printf("Edit By User B (Champfatboy)");
     printf("What is your Name? ");
     scanf("%s", Name);
     do
